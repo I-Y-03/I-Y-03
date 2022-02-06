@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Wesleyan University Alumnus ➹ Data Analytics 
  Creative Problem Solver | Team Player | Lifelong Learner
-<img src="/***.png" align="right" width="30%" />
+<img src="./tiger.png" align="right" width="30%" />
 
 <p>𝙰𝚋𝚘𝚞𝚝: </p>
 <p align="left">

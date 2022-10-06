@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Wesleyan University Alumnus ➹ Data Analytics 
+# Wesleyan University Alumnus -> UCLA Anderson MSBA ➹ Data Analytics 
  Creative Problem Solver | Team Player | Lifelong Learner
 <img src="./tiger.png" align="right" width="30%" />
 

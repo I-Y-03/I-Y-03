@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# UCLA Anderson MSBA 2023, Wesleyan University '21 ➹ Data Analytics 
- Creative Problem Solver | Team Player | Lifelong Learner
+# UCLA Anderson MSBA 2023, Wesleyan University '21 ➹ Data Analytics | Data Science | Product Analytics | Statistical Modeling | Predictive Analytics
+ Creative Problem Solver | Critical Thinking | Lifelong Learner
 <img src="./tiger.png" align="right" width="30%" />
 
 <p>𝙰𝚋𝚘𝚞𝚝: </p>
 <p align="left">
-My name is Ivan Yang, an aspiring up-and-coming Data Scientist.
+My name is Ivan Yang, an aspiring up-and-coming Data Scientist | Data Analyst | Business Intelligence Engineer.
 </p>
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/ivan-hanyu-yang/"><img src="https://img.shields.io/badge/let's connect 🤝-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# UCLA Anderson MSBA 2023, Wesleyan University '21 ➹ Data Analytics | Data Science | Product Analytics | Statistical Modeling | Predictive Analytics
+# UCLA Anderson MSBA 2023 ➹ Data Analytics | Data Science | Product Analytics | Statistical Modeling | Predictive Analytics
  Creative Problem Solver | Critical Thinking | Lifelong Learner
 <img src="./tiger.png" align="right" width="30%" />
 
